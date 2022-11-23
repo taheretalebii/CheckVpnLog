@@ -1,0 +1,10 @@
+C:\Users\talebi\Desktop\CheckLog\CheckLog\CheckLog\bin\Debug\CheckLog.exe.config
+C:\Users\talebi\Desktop\CheckLog\CheckLog\CheckLog\bin\Debug\CheckLog.exe
+C:\Users\talebi\Desktop\CheckLog\CheckLog\CheckLog\bin\Debug\CheckLog.pdb
+C:\Users\talebi\Desktop\CheckLog\CheckLog\CheckLog\obj\Debug\CheckLog.csprojAssemblyReference.cache
+C:\Users\talebi\Desktop\CheckLog\CheckLog\CheckLog\obj\Debug\CheckLog.Form1.resources
+C:\Users\talebi\Desktop\CheckLog\CheckLog\CheckLog\obj\Debug\CheckLog.Properties.Resources.resources
+C:\Users\talebi\Desktop\CheckLog\CheckLog\CheckLog\obj\Debug\CheckLog.csproj.GenerateResource.cache
+C:\Users\talebi\Desktop\CheckLog\CheckLog\CheckLog\obj\Debug\CheckLog.csproj.CoreCompileInputs.cache
+C:\Users\talebi\Desktop\CheckLog\CheckLog\CheckLog\obj\Debug\CheckLog.exe
+C:\Users\talebi\Desktop\CheckLog\CheckLog\CheckLog\obj\Debug\CheckLog.pdb
